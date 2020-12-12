@@ -1,7 +1,5 @@
 # Get_Better_CP_in_2_Months
 
-[![Join the chat at https://gitter.im/CompetitiveProgramming/community](https://badges.gitter.im/CompetitiveProgramming/community.svg)](https://gitter.im/CompetitiveProgramming/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 # Month 1
 
 ## Week 1
@@ -150,6 +148,8 @@ String Algorithms
 
 ***
 
+# Month 2
+
 ## Week 5
 Data Structures
 
@@ -210,7 +210,6 @@ Segment Tree
 
 1. #### Reading Material
 - [ ] [Tutorial](https://cp-algorithms.com/data_structures/segment_tree.html)
-- [ ] 
 
 2. #### Problems
 - [ ] [D. Distinct Characters Queries](https://codeforces.com/problemset/problem/1234/D)
@@ -250,7 +249,7 @@ The Github markdown's task list feature is used to check progress.
 1. Fork this repository. 
 2. Clone the forked repository.
 
-      `git clone https://github.com/your_user_name/Get_Better_at_CP_in_2_Months/`
+      `git clone https://github.com/your_user_name/Get_Better_at_CP_in_2_Months.git`
     
 3. Create a new branch for tracking your progress. Let's name this *your_user_name*
 
@@ -258,7 +257,7 @@ The Github markdown's task list feature is used to check progress.
       
 4. Add remote
 
-      `git remote add your_user_name https://github.com/your_user_name/Get_Better_at_CP_in_2_Months/`
+      `git remote add your_user_name https://github.com/your_user_name/Get_Better_at_CP_in_2_Months.git`
   
 - **Marking tasks as completed and pushing to your branch**:
 
